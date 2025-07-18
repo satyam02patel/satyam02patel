@@ -33,5 +33,14 @@
   <img src="https://img.shields.io/badge/ETL-00ADD8?style=for-the-badge&logo=dataiku&logoColor=white" />
 </p>
 
+### 🔬 Project Domains:
+<p align="left">
+  <img src="https://img.shields.io/badge/Sales%20Analytics-FF6B6B?style=for-the-badge&logo=sellfy&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--Commerce-FF9F1C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retail%20Data-8AC926?style=for-the-badge&logo=marketo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supply%20Chain-1982C4?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Banking%20Analytics-6A4C93?style=for-the-badge&logo=monzo&logoColor=white" />
+</p>
+
 ---
 
