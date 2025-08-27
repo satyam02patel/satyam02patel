@@ -4,7 +4,7 @@
 - 🧠 I'm currently learning Advanced BI and ETL techniques
 - 💬 Ask me anything about SQL, Power BI, or Python for data analysis
 - 📫 How to reach me: [satyampatelsep02@gmail.com](mailto:satyampatelsep02@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/satyampateldataanalyticsjob](https://www.linkedin.com/in/satyampateldataanalyticsjob)
+- 💼 LinkedIn: [linkedin.com/in/satyampateldataanalyticsjob](https://www.linkedin.com/in/satyampateldataanalyst/)
 - 🌐 GitHub: [github.com/satyam02patel](https://github.com/satyam02patel)
 - 💡 Fun fact: I love turning raw data into meaningful business insights 📊
 
